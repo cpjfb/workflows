@@ -4,8 +4,12 @@
     "description": "A project to showcase workflows",
     "main": "index.js",
     "repository": {
-	"type": "git",
-	"url": "?.git"
+        "type": "git",
+        "url": "?.git"
     },
-    "author": "Christophe Buffet"
+    "author": "Christophe Buffet",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-util": "^3.0.8"
+    }
 }
